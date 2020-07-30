@@ -1,8 +1,8 @@
-## Project: Multi-cryptocurrency Reinforcement Learning Tradebot
-# Only include offline backtest
-# Project currently not active
+# Project: Multi-cryptocurrency Reinforcement Learning Tradebot
+## Only include offline backtest
+## Project currently not active
 
-## Copyright
+# Copyright
 This code is owned by Bell Chen. You can use it and edit it anyway you want only for non-commercial education and personal research. If you are plan to publish a non-commercial research paper using this code, please note the original author of this code and let me know.  
 
 If you are using this platform for any commercial use including research and development, please contact me and ask permission.  
